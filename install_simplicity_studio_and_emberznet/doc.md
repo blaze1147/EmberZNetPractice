@@ -66,4 +66,6 @@ Simplicity Studio 会自动安装刚才所选的组件（如下图所示），�
 
 安装完成后会弹出一个提示框，点击 `Yes`，Simplicity Studio 将会重启并加载已安装的组件。
 
+<div align=center title="Apply Changes"><img src="./figure/12.jpg" alt="Apply Changes"/></div>
+
 至此，你已经成功地安装了 Simplicity Studio 和 EmberZNet。
