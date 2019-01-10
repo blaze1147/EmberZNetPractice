@@ -40,7 +40,7 @@
 
 # 2. 生成项目文件
 
-1. 打开所创建目录下的 `<Project name>.isc`，并点击 `Generate` 来生成项目文件。
+1. 打开项目下的 `<Project name>.isc`，并点击 `Generate` 来生成项目文件。
 
     <div align=center title="Generate"><img src="./figure/8.jpg" alt="Generate"/></div>
 
