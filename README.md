@@ -27,4 +27,4 @@
 
 ## 抓包实践
 
-* [ ] [网络分析仪入门指南](./doc/network_analyzer_getting_started_guide/doc.md)
+* [x] [网络分析仪入门指南](./doc/network_analyzer_getting_started_guide/doc.md)
